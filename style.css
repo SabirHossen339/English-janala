@@ -9,3 +9,8 @@
 .bangla-2 {
   font-family: "Tiro Bangla", serif;
 }
+
+.active {
+  background-color: #422AD5;
+  color: white;
+}
